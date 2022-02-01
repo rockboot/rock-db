@@ -10,4 +10,5 @@
 rootProject.name = 'rock-db'
 include 'common'
 include 'migration'
+include 'base'
 
