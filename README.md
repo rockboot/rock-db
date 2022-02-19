@@ -1,2 +1,2 @@
 # rock-db
-storage.
+storage interface.
